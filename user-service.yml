@@ -1,0 +1,11 @@
+  datasource:
+    driver-class-name: org.h2.Driver
+    url: jdbc:h2:mem:testdb
+    username: sa
+    password: '{cipher}8bc9b3db11af53e1a480fc36a7eedbacca057003bd4b8a479983701fc01975f8'
+  
+token:
+  expiration_time: 86400000
+  secret: my_token_user
+gatway:
+  ip: 192.168.0.8

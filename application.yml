@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: my_token_application
+  secret: my_token_application#2
 
 gatway:
   ip: 192.168.0.8
