@@ -2,8 +2,7 @@
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb
     username: sa
-    password: '{cipher}8bc9b3db11af53e1a480fc36a7eedbacca057003bd4b8a479983701fc01975f8'
-  
+    password: '{cipher}AQAzr3LGtmfqUJwa+1NFFdmv/dJhuuCXJHYMkJKeiD0d7+u1YuaPwBDfynDE293VwDY480e/hYXWR/9lT9An31hVIASzDgN8beeQFma0RZ///s2eQHpreaJx+lCsnobDhJwx+tJw09SXKU5phBG/tVO8YP4gk1wnTtR0Vhv90/bdwF0qGmZFqyusG0Blzl3f9FYb32r+vz3SZWD0UXZ/JLvEq6M/pECoV812anIv3N4CsR6/ulFWAFNxwh+OrvMN/bY7dnRHd1jnqRuQGDdAXFRSkoeuJ/3DLBtsuleYVbnfamMg8Rc/LHlmyQF5Sg0kVEDi5qys03VIx8ZvW5RTfG6Rl6C+RZmRIztZEk31sqhE6Tchipnes0Qe0mW9l5bHrUA='
 token:
   expiration_time: 86400000
   secret: my_token_user
